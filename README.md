@@ -1,6 +1,18 @@
-# expense_planner
+# Expense Planner Application 
 
 A new Flutter application.
+
+# Home page
+<img src = "assets/images/previewImages/home_page.jpg" width = "400">
+
+# Add expense page
+<img src = "assets/images/previewImages/add_expense.jpg" width = "400">
+
+# Select a date
+<img src = "assets/images/previewImages/select_date.jpg" width = "400">
+
+# Updated Home page
+<img src = "assets/images/previewImages/updated_home_page.jpg" width = "400">
 
 ## Getting Started
 
