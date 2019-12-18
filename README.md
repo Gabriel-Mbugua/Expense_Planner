@@ -1,6 +1,6 @@
 # Expense Planner Application 
 
-A new Flutter application.
+This is a simple expense planer.
 
 # Home page
 <img src = "assets/images/previewImages/home_page.jpg" width = "400">
